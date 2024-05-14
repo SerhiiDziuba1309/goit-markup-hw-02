@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434445;
+}
+a {
+    text-decoration: none;
+}
+ul {list-style-type: none;
+}
+.navigation {
+    background: #fff;
+}
+.navigation-logotip {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+    width: 115px;
+    height: 24px;
+}
+.navigation-list {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
