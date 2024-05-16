@@ -29,6 +29,8 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;    
     font-size: 18px;
+
+
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -134,7 +136,6 @@ ul {
     background-color: #F4F4FD;
 }
 .portfolio-foto {
-    width: "360";
     background: url("path_to_image");
     }
 .portfolio-name {
